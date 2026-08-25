@@ -20,3 +20,19 @@ Welcome to my LeetCode solutions repository! This workspace contains my daily pr
 ---
 *“Consistency is what transforms average into excellence.”* 💯
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0010-regular-expression-matching) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0010-regular-expression-matching) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0010-regular-expression-matching) |
+<!---LeetCode Topics End-->
