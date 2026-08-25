@@ -16,9 +16,6 @@ Welcome to my LeetCode solutions repository! This workspace contains my daily pr
 - Code includes necessary comments for better understanding.
 - Structured to cover various topics like Arrays, Strings, Trees, Dynamic Programming, and more.
 
-## 🔗 Connect with me
-- **LeetCode Profile:** [Your LeetCode Username](https://leetcode.com/u/your_username/)
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your_username/)
 
 ---
 *“Consistency is what transforms average into excellence.”* 💯
