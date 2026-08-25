@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0013-roman-to-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -52,8 +53,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0013-roman-to-integer) |
 ## Math
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
