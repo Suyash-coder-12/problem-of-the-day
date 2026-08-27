@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0015-3sum) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3721-longest-balanced-subarray-ii) |
+| [3724-minimum-operations-to-transform-array](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3724-minimum-operations-to-transform-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0011-container-with-most-water) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3724-minimum-operations-to-transform-array](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3724-minimum-operations-to-transform-array) |
 ## Hash Table
 |  |
 | ------- |
