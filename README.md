@@ -9,7 +9,7 @@ Welcome to my LeetCode solutions repository! This workspace contains my daily pr
 - Keep a well-documented vault of all DSA patterns.
 
 ## 💻 Tech Stack / Language
-- Primarily **Java** ☕
+- Primarily **Java** and **C++** ☕
 
 ## 📂 About the Solutions
 - All solutions are optimized for Time and Space Complexity.
