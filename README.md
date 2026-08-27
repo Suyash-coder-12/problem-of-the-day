@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0015-3sum) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3721-longest-balanced-subarray-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0013-roman-to-integer) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3721-longest-balanced-subarray-ii) |
 ## Math
 |  |
 | ------- |
@@ -76,4 +78,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3721-longest-balanced-subarray-ii](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3721-longest-balanced-subarray-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3721-longest-balanced-subarray-ii](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3721-longest-balanced-subarray-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3721-longest-balanced-subarray-ii](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3721-longest-balanced-subarray-ii) |
 <!---LeetCode Topics End-->
