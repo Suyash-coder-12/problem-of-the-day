@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0038-count-and-say) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -130,10 +131,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0032-longest-valid-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0032-longest-valid-parentheses) |
 ## Matrix
 |  |
