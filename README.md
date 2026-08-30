@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0032-longest-valid-parentheses) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Recursion
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0039-combination-sum) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3721-longest-balanced-subarray-ii) |
 | [3724-minimum-operations-to-transform-array](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3724-minimum-operations-to-transform-array) |
 ## Two Pointers
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0018-4sum) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Counting
 |  |
 | ------- |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0035-search-insert-position) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 ## Stack
 |  |
