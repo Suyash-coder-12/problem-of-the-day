@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0032-longest-valid-parentheses) |
 | [2060-check-if-an-original-string-exists-given-two-encoded-strings](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/2060-check-if-an-original-string-exists-given-two-encoded-strings) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3877-minimum-removals-to-achieve-target-xor](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 ## Recursion
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3724-minimum-operations-to-transform-array](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3724-minimum-operations-to-transform-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3877-minimum-removals-to-achieve-target-xor](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 ## Two Pointers
 |  |
 | ------- |
@@ -195,4 +197,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3877-minimum-removals-to-achieve-target-xor](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 <!---LeetCode Topics End-->
