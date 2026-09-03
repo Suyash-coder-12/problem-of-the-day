@@ -198,4 +198,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3877-minimum-removals-to-achieve-target-xor) |
+## Design
+|  |
+| ------- |
+| [2069-walking-robot-simulation-ii](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/2069-walking-robot-simulation-ii) |
+## Simulation
+|  |
+| ------- |
+| [2069-walking-robot-simulation-ii](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/2069-walking-robot-simulation-ii) |
 <!---LeetCode Topics End-->
