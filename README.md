@@ -212,4 +212,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2069-walking-robot-simulation-ii](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/2069-walking-robot-simulation-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3653-xor-after-range-multiplication-queries-i) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Depth-First Search
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
