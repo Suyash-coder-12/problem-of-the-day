@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0039-combination-sum) |
+| [0041-first-missing-positive](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0041-first-missing-positive) |
 | [2059-minimum-operations-to-convert-number](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/2059-minimum-operations-to-convert-number) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0041-first-missing-positive) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3721-longest-balanced-subarray-ii) |
