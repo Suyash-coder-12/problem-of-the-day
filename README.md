@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0041-first-missing-positive) |
+| [0835-image-overlap](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0835-image-overlap) |
 | [2059-minimum-operations-to-convert-number](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/2059-minimum-operations-to-convert-number) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0036-valid-sudoku) |
+| [0835-image-overlap](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Backtracking
 |  |
