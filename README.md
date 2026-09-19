@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0013-roman-to-integer) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -248,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
