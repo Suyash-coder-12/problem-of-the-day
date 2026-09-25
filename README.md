@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0038-count-and-say) |
 | [0115-distinct-subsequences](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0115-distinct-subsequences) |
+| [1096-brace-expansion-ii](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2060-check-if-an-original-string-exists-given-two-encoded-strings](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/2060-check-if-an-original-string-exists-given-two-encoded-strings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0041-first-missing-positive) |
+| [1096-brace-expansion-ii](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0018-4sum) |
+| [1096-brace-expansion-ii](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0032-longest-valid-parentheses) |
+| [1096-brace-expansion-ii](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -199,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0039-combination-sum) |
+| [1096-brace-expansion-ii](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/1096-brace-expansion-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -211,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/1096-brace-expansion-ii) |
 | [2059-minimum-operations-to-convert-number](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/2059-minimum-operations-to-convert-number) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Heap (Priority Queue)
