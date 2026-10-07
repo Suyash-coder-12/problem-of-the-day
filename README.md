@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0038-count-and-say) |
 | [0115-distinct-subsequences](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0039-combination-sum) |
+| [0301-remove-invalid-parentheses](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/1096-brace-expansion-ii) |
 ## Linked List
 |  |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/1096-brace-expansion-ii) |
 | [2059-minimum-operations-to-convert-number](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/2059-minimum-operations-to-convert-number) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3568-minimum-moves-to-clean-the-classroom) |
