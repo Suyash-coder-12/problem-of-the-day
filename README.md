@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0041-first-missing-positive) |
 | [0835-image-overlap](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0835-image-overlap) |
+| [1306-jump-game-iii](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/1306-jump-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2059-minimum-operations-to-convert-number](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/2059-minimum-operations-to-convert-number) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/1096-brace-expansion-ii) |
+| [1306-jump-game-iii](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/1306-jump-game-iii) |
 | [2059-minimum-operations-to-convert-number](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/2059-minimum-operations-to-convert-number) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Heap (Priority Queue)
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1306-jump-game-iii](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/1306-jump-game-iii) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
