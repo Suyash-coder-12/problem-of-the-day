@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2060-check-if-an-original-string-exists-given-two-encoded-strings](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/2060-check-if-an-original-string-exists-given-two-encoded-strings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3498-reverse-degree-of-a-string](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Dynamic Programming
