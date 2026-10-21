@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3498-reverse-degree-of-a-string](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
