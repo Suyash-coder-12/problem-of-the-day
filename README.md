@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3498-reverse-degree-of-a-string](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Dynamic Programming
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3721-longest-balanced-subarray-ii](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3721-longest-balanced-subarray-ii) |
 | [3724-minimum-operations-to-transform-array](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3724-minimum-operations-to-transform-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3877-minimum-removals-to-achieve-target-xor) |
@@ -217,12 +219,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3721-longest-balanced-subarray-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3721-longest-balanced-subarray-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -324,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Design
@@ -341,12 +346,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [1306-jump-game-iii](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/1306-jump-game-iii) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -365,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Union-Find
 |  |
 | ------- |
