@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0041-first-missing-positive) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0835-image-overlap](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/1306-jump-game-iii) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0013-roman-to-integer) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/2409-count-days-spent-together) |
