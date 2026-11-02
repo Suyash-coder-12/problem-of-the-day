@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0041-first-missing-positive) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0835-image-overlap](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/1306-jump-game-iii) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0013-roman-to-integer) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/2409-count-days-spent-together) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0018-4sum) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/2089-find-target-indices-after-sorting-array) |
