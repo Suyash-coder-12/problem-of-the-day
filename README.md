@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-minimum-operations-to-convert-number](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/2059-minimum-operations-to-convert-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Sliding Window
 |  |
