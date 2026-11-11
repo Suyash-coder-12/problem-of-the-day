@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3724-minimum-operations-to-transform-array](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3724-minimum-operations-to-transform-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Hash Table
 |  |
 | ------- |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3886-sum-of-sortable-integers](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3886-sum-of-sortable-integers) |
