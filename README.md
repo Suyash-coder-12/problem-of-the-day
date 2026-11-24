@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/2409-count-days-spent-together) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 | [3886-sum-of-sortable-integers](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3886-sum-of-sortable-integers) |
@@ -430,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2747-count-zero-request-servers](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/2747-count-zero-request-servers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Geometry
@@ -493,4 +497,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/1352-product-of-the-last-k-numbers) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
