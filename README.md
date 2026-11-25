@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3903-smallest-stable-index-i) |
+| [3934-smallest-unique-subarray](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Two Pointers
 |  |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3721-longest-balanced-subarray-ii) |
+| [3934-smallest-unique-subarray](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3934-smallest-unique-subarray) |
 ## Math
 |  |
 | ------- |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3722-lexicographically-smallest-string-after-reverse) |
+| [3934-smallest-unique-subarray](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3934-smallest-unique-subarray) |
 ## Stack
 |  |
 | ------- |
@@ -501,4 +504,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3411-maximum-subarray-with-equal-products) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Suyash-coder-12/problem-of-the-day/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
